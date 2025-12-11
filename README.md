@@ -8,4 +8,3 @@
 
 ## Project Overview
 This repository contains my first project for the Free and Open Software module.  
-It demonstrates basic usage of Git, GitHub, and version control practices.
